@@ -1,0 +1,29 @@
+{
+    "tour": {
+        "name": "Tour Name",
+        "name_branch": "Branch",
+        "price_min": "Lowest Price",
+        "price_max": "Highest Price",
+        "image": "Image",
+        "quantity": "Quantity",
+        "description": "Description",
+        "is_active": "Status",
+        "actions": "Actions",
+        "Cập Nhật":"Update",
+        "Thêm Mới":"Add",
+        "Xóa":"Delete"
+    },
+    "Addtour": {
+        "Tour Name": "Tour Name",
+        "Price Min": "Price Min",
+        "Price Max": "Price Max",
+        "Quantity": "Quantity",
+        "Description": "Description",
+        "Services": "Services",
+        "Upload Image": "Upload Image",
+        "Branch": "Branch",
+        "actions": "Thao Tác",
+        "Cập Nhật": "Cập Nhật",
+        "Add New Tour": "Add New Tour"
+    }
+}

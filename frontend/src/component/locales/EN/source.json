@@ -1,0 +1,35 @@
+{
+    "source": {
+        "name": "Agent Name",
+        "email": "Email",
+        "phone": "Phone Number",
+        "address": "Address",
+        "type": "Type",
+        "status": "Status",
+        "actions": "Actions",
+        "Cập Nhật":"Update",
+        "Thêm Mới":"Add",
+        "Xóa":"Delete"
+    },
+    "Addsource": {
+        "Tên Nguồn": "Source",
+        "Số Điện Thoại": "Phone",
+        "Địa Chỉ": "Address",
+        "Loại": "Type",
+        "Chọn loại": "select type",
+        "Thêm Nguồn":"Add Source",
+        "Hủy": "Cancel",
+        "Thêm Mới": "Add New"
+    },
+    "Updatesource": {
+        "Tên Nguồn": "Source",
+        "Số Điện Thoại": "Phone",
+        "Địa Chỉ": "Address",
+        "Loại Nguồn": "Type",
+        "Chọn loại": "select type",
+        "Thêm Nguồn":"Add Source",
+        "Hủy": "Cancel",
+        "Cập Nhật": "Update",
+        "Cập Nhật Nguồn": "Update Source"
+    }
+}

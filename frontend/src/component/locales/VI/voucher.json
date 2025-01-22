@@ -1,0 +1,45 @@
+{
+  "voucher": {
+    "code": "Mã Voucher",
+    "description": "Mô Tả",
+    "type_voucher": "Loại Voucher",
+    "value": "Giá Trị",
+    "quantity": "Số Lượng",
+    "start_day": "Ngày Bắt Đầu",
+    "end_day": "Ngày Kết Thúc",
+    "status": "Trạng Thái",
+    "actions": "Thao Tác",
+    "Cập Nhật": "Cập Nhật",
+    "Thêm Mới": "Thêm Mới",
+    "Xóa": "Xóa"
+  },
+  "AddVoucher": {
+    "Mã Voucher": "Mã Voucher",
+    "Mô Tả": "Mô Tả",
+    "Số Lượng": "Số Lượng",
+    "Loại Voucher": "Loại Voucher",
+    "Giá Trị": "Giá Trị",
+    "Thời Gian": "Thời Gian",
+    "Thêm Khuyến Mại": "Thêm Khuyến Mại",
+    "Hủy": "Hủy",
+    "Thêm Mới": "Thêm Mới",
+    "Customer": "Khách Hàng",
+    "tour": "Lịch Trình",
+    "Đối Tượng": "Đối Tượng",
+    "Loại Đối Tượng": "Loại Đối Tượng"
+  },
+  "UpdateVoucher": {
+    "Mã Voucher": "Mã Voucher",
+    "Mô Tả": "Mô Tả",
+    "Số Lượng": "Số Lượng",
+    "Loại Voucher": "Loại Voucher",
+    "Giá Trị": "Giá Trị",
+    "Thời Gian": "Thời Gian",
+    "Cập Nhật Khuyến Mại": "Cập Nhật Khuyến Mại",
+    "Hủy": "Hủy",
+    "Cập Nhật": "Cập nhật",
+    "Loại Đối Tượng": "Loại Đối Tượng",
+    "Tour": "Lịch Trình",
+    "Customer": "Đối Tượng"
+  }
+}

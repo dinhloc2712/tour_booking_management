@@ -1,0 +1,35 @@
+{
+    "source": {
+        "name": "Tên Đại Lý",
+        "email": "Email",
+        "phone": "Số Điện Thoại",
+        "address": "Địa Chỉ",
+        "type": "Loại",
+        "status": "Trạng Thái",
+        "actions": "Thao Tác",
+        "Cập Nhật": "Cập Nhật",
+        "Thêm Mới": "Thêm Mới",
+        "Xóa": "Xóa"
+    },
+    "Addsource": {
+        "Tên Nguồn": "Tên Nguồn",
+        "Số Điện Thoại": "Số Điện Thoại",
+        "Địa Chỉ": "Địa Chỉ",
+        "Loại": "Loại",
+        "Chọn loại": "Chọn loại",
+        "Thêm Nguồn": "Thêm Nguồn",
+        "Hủy": "Hủy",
+        "Thêm Mới": "Thêm Mới"
+    },
+    "Updatesource": {
+        "Tên Nguồn": "Tên Nguồn",
+        "Số Điện Thoại": "Số Điện Thoại",
+        "Địa Chỉ": "Địa Chỉ",
+        "Loại Nguồn": "Loại Nguồn",
+        "Chọn loại": "Chọn loại",
+        "Thêm Nguồn": "Thêm Nguồn",
+        "Hủy": "Hủy",
+        "Cập Nhật": "Cập Nhật",
+        "Cập Nhật Nguồn": "Cập Nhật Nguồn"
+    }
+}

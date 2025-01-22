@@ -1,0 +1,50 @@
+{
+    "user": {
+        "birthday": "Birthday",
+        "phoneNumber": "Phone Number",
+        "relativePhoneNumber": "Relative's Phone Number",
+        "quantity_voucher": "Quantity of Vouchers",
+        "address": "Address",
+        "name_branch": "Branch Name",
+        "fullname": "Full Name",
+        "email": "Email",
+        "avatar": "Avatar",
+        "status": "Status",
+        "actions": "Actions",
+        "Cập Nhật": "Update",
+        "Thêm Mới":"Add",
+        "Xóa":"Delete"
+    },
+    "Adduser": {
+        "Họ Và Tên": "fullname",
+        "Email": "Email",
+        "Mật Khẩu": "Password",
+        "Ảnh": "Avatar",
+        "Chi Nhánh": "Branch",
+        "Phân Quyền": "Roles",
+        "Thêm Tài Khoản": "Add Account",
+        "Hủy": "Cancel",
+        "Thêm Mới": "Add New"
+    },
+    "Updateuser": {
+        "Tên tài khoản": "fullname",
+        "Tên Email": "Email",
+        "Số Điện Thoại": "Phone",
+        "Số Điện Thoại Người Thân":"Relatives Phone Number",
+        "Mật khẩu": "Password",
+        "Avatar": "Avatar",
+        "Chi Nhánh": "Branch",
+        "Phân Quyền": "Roles",
+        "Cập nhật tài khoản": "Update Account",
+        "Hủy": "Cancel",
+        "Cập Nhật": "Update",
+        "Thông Tin Tài Khoản":"Account Information",
+        "Đổi Mật Khẩu":"Change Password",
+        "Đăng Xuất": "Log Out",
+        "Đóng": "Close",
+        "Chọn Avatar": "Select Avatar",
+        "Mật khẩu hiện tại": "Current Password",
+        "Mật khẩu mới": "New Password",
+        "Xác nhận mật khẩu mới": "Confirm new password"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "tour": {
+        "name": "Tên Tour",
+        "name_branch": "Chi Nhánh",
+        "price_min": "Giá Thấp Nhất",
+        "price_max": "Giá Cao Nhất",
+        "image": "Hình Ảnh",
+        "quantity": "Số Lượng",
+        "description": "Mô Tả",
+        "is_active": "Trạng Thái",
+        "actions": "Thao Tác",
+        "Cập Nhật": "Cập Nhật",
+        "Thêm Mới": "Thêm Mới",
+        "Xóa": "Xóa"
+    },
+    "Addtour": {
+        "Tour Name": "Tên Tour",
+        "Price Min": "Giá Thấp Nhất",
+        "Price Max": "Giá Cao Nhất",
+        "Quantity": "Số Lượng",
+        "Description": "Mô Tả",
+        "Services": "Dịch Vụ",
+        "Upload Image": "Hình Ảnh",
+        "Branch": "Chi Nhánh",
+        "actions": "Thao Tác",
+        "Cập Nhật": "Cập Nhật",
+        "Add New Tour": "Thêm Mới Tour"
+    }
+}

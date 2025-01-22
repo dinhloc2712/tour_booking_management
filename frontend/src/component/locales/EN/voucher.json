@@ -1,0 +1,44 @@
+{
+  "voucher": {
+    "code": "Voucher Code",
+    "description": "Description",
+    "type_voucher": "Voucher Type",
+    "value": "Value",
+    "quantity": "Quantity",
+    "start_day": "Start Date",
+    "end_day": "End Date",
+    "status": "Status",
+    "actions": "Actions",
+    "Cập Nhật": "Update",
+    "Thêm Mới": "Add",
+    "Xóa": "Delete"
+  },
+  "AddVoucher": {
+    "Mã Voucher": "Voucher Code",
+    "Mô Tả": "Description",
+    "Số Lượng": "Quantity",
+    "Loại Voucher": "Voucher Type",
+    "Giá Trị": "Value",
+    "Thời Gian": "Date",
+    "Thêm Khuyến Mại": "Add voucher",
+    "Hủy": "Cancel",
+    "Thêm Mới": "Add New",
+    "Customer": "User",
+    "tour": "Tour",
+    "Đối Tượng": "Object Type"
+  },
+  "UpdateVoucher": {
+    "Mã Voucher": "Voucher Code",
+    "Mô Tả": "Description",
+    "Số Lượng": "Quantity",
+    "Loại Voucher": "Voucher Type",
+    "Giá Trị": "Value",
+    "Thời Gian": "Date",
+    "Cập Nhật Khuyến Mại": "Update voucher",
+    "Hủy": "Cancel",
+    "Cập Nhật": "Update",
+    "Loại Đối Tượng": "Object Type",
+    "Tour": "Tour",
+    "Customer": "Customer"
+  }
+}

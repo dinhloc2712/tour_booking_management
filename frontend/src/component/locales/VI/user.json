@@ -1,0 +1,50 @@
+{
+    "user": {
+        "birthday": "Ngày Sinh",
+        "phoneNumber": "Số Điện Thoại",
+        "relativePhoneNumber": "Số Điện Thoại Người Thân",
+        "quantity_voucher": "Số Lượng Voucher",
+        "address": "Địa Chỉ",
+        "name_branch": "Tên Chi Nhánh",
+        "fullname": "Họ và Tên",
+        "email": "Email",
+        "avatar": "Ảnh Đại Diện",
+        "status": "Trạng Thái",
+        "actions": "Thao Tác",
+        "Cập Nhật": "Cập Nhật",
+        "Thêm Mới": "Thêm Mới",
+        "Xóa": "Xóa"
+    },
+    "Adduser": {
+        "Họ Và Tên": "Họ Và Tên",
+        "Email": "Email",
+        "Mật Khẩu": "Mật Khẩu",
+        "Ảnh": "Ảnh",
+        "Chi Nhánh": "Chi Nhánh",
+        "Phân Quyền": "Phân Quyền",
+        "Thêm Tài Khoản": "Thêm Tài Khoản",
+        "Hủy": "Hủy",
+        "Thêm Mới": "Thêm Mới"
+    },
+    "Updateuser": {
+        "Tên tài khoản": "Họ Và Tên",
+        "Tên Email": "Email",
+        "Số Điện Thoại": "Số Điện Thoại",
+        "Số Điện Thoại Người Thân": "Số Điện Thoại Người Thân",
+        "Mật khẩu": "Mật Khẩu",
+        "Avatar": "Ảnh",
+        "Chi Nhánh": "Chi Nhánh",
+        "Phân Quyền": "Phân Quyền",
+        "Cập nhật tài khoản": "Cập Nhật Tài Khoản",
+        "Hủy": "Hủy",
+        "Cập Nhật": "Cập Nhật",
+        "Thông Tin Tài Khoản":"Thông Tin Tài Khoản",
+        "Đổi Mật Khẩu":"Đổi Mật Khẩu",
+        "Đăng Xuất": "Đăng Xuất",
+        "Đóng": "Đóng",
+        "Chọn Avatar": "Chọn Avatar",
+        "Mật khẩu hiện tại": "Mật khẩu hiện tại",
+        "Mật khẩu mới": "Mật khẩu mới",
+        "Xác nhận mật khẩu mới": "Xác nhận mật khẩu mới"
+    }
+}

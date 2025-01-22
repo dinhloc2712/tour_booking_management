@@ -1,0 +1,51 @@
+{
+    "service": {
+        "name": "Product Name",
+        "price": "Price",
+        "type": "Type",
+        "description": "Description",
+        "status": "Status",
+        "Service": "Service",
+        "actions": "Actions",
+        "Cập Nhật": "Update",
+        "Thêm Mới":"Add",
+        "Xóa":"Delete"
+    },
+    "label": {
+        "Service": "Service",
+        "Branch": "Branch",
+        "Voucher": "Voucher",
+        "User": "User",
+        "Source": "Source",
+        "Source Service": "Source Service",
+        "Source Agent": "Source Agent",
+        "Employee Account": "Employee Account",
+        "User Account": "User Account",
+        "Trang Chủ": "Home",
+        "Tour": "Tour",
+        "Cập Nhật":"Update",
+        "Statistical" : "Dashboard",
+        "Chat": "Chat"
+    },
+    "AddService": {
+        "Tên Dịch Vụ": "Service Name",
+        "Giá Dịch Vụ": "Service Price",
+        "Mô tả dịch vụ": "Description",
+        "Loại": "Type",
+        "Chọn loại": "Chọn loại",
+        "Thêm Dịch Vụ": "AddService",
+        "Hủy": "Cancel",
+        "Thêm Mới": "Add New"
+    },
+    "UpdateService": {
+        "Cập nhật Dịch vụ": "Service Update",
+        "Tên Dịch Vụ": "Service Name",
+        "Giá Dịch Vụ": "Service Price",
+        "Mô tả dịch vụ": "Description",
+        "Loại": "Type",
+        "Chọn loại": "Chọn loại",
+        "Loại dịch vụ": "Service Type",
+        "Hủy": "Cancel",
+        "Cập Nhật": "Update"
+    }
+}

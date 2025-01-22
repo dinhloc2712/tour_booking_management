@@ -1,0 +1,24 @@
+{
+    "branch": {
+        "name": "Tên Chi Nhánh",
+        "type": "Loại",
+        "actions": "Thao Tác",
+        "Cập Nhật": "Cập Nhật",
+        "Thêm Mới": "Thêm Mới",
+        "Xóa": "Xóa"
+    },
+    "AddBranch": {
+        "Tên Chi Nhánh": "Tên Chi Nhánh",
+        "Loại": "Loại",
+        "Hủy": "Hủy",
+        "Thêm Mới": "Thêm Mới",
+        "Thêm Chi Nhánh": "Thêm Chi Nhánh"
+    },
+    "UpdateBranch": {
+        "Tên Chi Nhánh": "Tên Chi Nhánh",
+        "Loại Chi Nhánh": "Loại",
+        "Hủy": "Hủy",
+        "Cập Nhật": "Cập Nhật",
+        "Cập nhật Chi Nhánh": "Cập nhật Chi Nhánh"
+    }
+}

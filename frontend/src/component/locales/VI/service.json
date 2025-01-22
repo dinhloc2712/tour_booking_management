@@ -1,0 +1,51 @@
+{
+    "service": {
+        "name": "Tên Dịch Vụ",
+        "price": "Giá",
+        "type": "Loại",
+        "description": "Mô Tả",
+        "status": "Trạng Thái",
+        "Service": "Dịch vụ",
+        "actions": "Thao Tác",
+        "Cập Nhật": "Cập Nhật",
+        "Thêm Mới": "Thêm Mới",
+        "Xóa": "Xóa"
+    },
+    "label": {
+        "Service": "Dịch Vụ",
+        "Branch": "Chi Nhánh",
+        "Voucher": "Khuyến Mãi",
+        "User": "Người Dùng",
+        "Source": "Nguồn",
+        "Source Service": "Nguồn Dịch Vụ",
+        "Source Agent": "Nguồn Đại Lý",
+        "Employee Account": "Tài Khoản Nhân Viên",
+        "User Account": "Tài Khoản Người Dùng",
+        "Trang Chủ": "Trang Chủ",
+        "Tour": "Hành Trình",
+        "Statistical" : "Thống Kê",
+        "Chat": "Chat"
+    },
+    "AddService": {
+        "Tên Dịch Vụ": "Tên Dịch Vụ",
+        "Giá Dịch Vụ": "Giá Dịch Vụ",
+        "Mô tả dịch vụ": "Mô tả dịch vụ",
+        "Loại": "Loại",
+        "Chọn loại": "Chọn loại",
+        "Thêm Dịch Vụ": "Thêm Dịch Vụ",
+        "Hủy": "Hủy",
+        "Thêm Mới": "Thêm Mới",
+        "Thêm Chi Nhánh":"Thêm Chi Nhánh"
+    },
+    "UpdateService": {
+        "Cập nhật Dịch vụ": "Cập nhật Dịch vụ",
+        "Tên Dịch Vụ": "Tên Dịch Vụ",
+        "Giá Dịch Vụ": "Giá Dịch Vụ",
+        "Mô tả dịch vụ": "Mô tả dịch vụ",
+        "Loại": "Loại",
+        "Chọn loại": "Chọn loại",
+        "Loại dịch vụ": "Loại dịch vụ",
+        "Hủy": "Hủy",
+        "Cập Nhật": "Cập Nhật"
+    }
+}

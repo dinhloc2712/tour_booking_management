@@ -1,0 +1,24 @@
+{
+    "branch": {
+        "name": "Branch Name",
+        "type": "Type",
+        "actions": "Actions",
+        "Cập Nhật":"Update",
+        "Thêm Mới":"Add",
+        "Xóa":"Delete"
+    },
+    "AddBranch": {
+        "Tên Chi Nhánh": "Branch Name",
+        "Loại": "Type",
+        "Hủy": "Cancel",
+        "Thêm Mới": "Add New",
+        "Thêm Chi Nhánh": "Add Branch"
+    },
+    "UpdateBranch": {
+        "Tên Chi Nhánh": "Branch Name",
+        "Loại Chi Nhánh": "Type",
+        "Hủy": "Cancel",
+        "Cập Nhật": "Update",
+        "Cập nhật Chi Nhánh":"Branch Update"
+    }
+}
